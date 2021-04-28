@@ -26,5 +26,5 @@ monitor开头 930X
 - URL地址
 
 ```
-switchhost映射 example.com
+switchhost映射 localhost
 ```
