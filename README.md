@@ -12,7 +12,7 @@ common
 modules
 
 // 监控
-moniotr
+monitor
 ```
 
 - 端口分配

@@ -228,8 +228,8 @@
 		<module>common-auth</module>
 		<module>common-gw</module>
 		<module>monitor</module>
-		<module>modules-api</module>
-		<module>modules-srv</module>
+		<module>common-api</module>
+		<module>modules</module>
     </modules>
     <packaging>pom</packaging>
 
